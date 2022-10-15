@@ -1,4 +1,4 @@
 # Phương trình trùng phương
 
-Đề bài
+## Đề bài
 ![alt text](debai.png "Đề bài")
